@@ -4,7 +4,7 @@
 - 🌱 I’m currently also learning web-programming, javascript and the like.
       I am just uploading new releases for Readibl, a text-reformatter for easier reading.
 - 💞️ Shortly i will be focussing on json2web, in which i am trying to create fat nim-server code and a thin javascript-layer.
-- 📫 You can reach me at: googelaar at gmail.com
+- 📫 You can reach me at: googelaar att gmail.com
 
 <!---
 some-avail/some-avail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
