@@ -1,9 +1,9 @@
 - 👋 Hi, i am Joris Bollen from the Netherlands.
-- 👀 I’m interested in programming-languages Python (earlier) and now Nim. 
-    I have programmed Knobjex in python, which you can find at https://sourceforge.net/projects/knobjex-info-manager/
-- 🌱 I’m currently also learning web-programming, javascript and the like.
-      I am just uploading new releases for Readibl, a text-reformatter for easier reading.
-- 💞️ Shortly i will be focussing on json2web, in which i am trying to create fat nim-server code and a thin javascript-layer.
+- 👀 I’m interested in programming-languages Python and Nim. 
+    Earlier I have programmed Knobjex in python, which you can find at https://sourceforge.net/projects/knobjex-info-manager/
+- 🌱 I’m currently active in web-programming with javascript and Nim, for now mostly offline browser-apps.
+      As offline browser-apps I created Readibl, a text-reformatter for easier reading, and Freekwensie, that creates site-profiles from links in any web-page.
+- 💞️ Before that I have focussed on json2web, a (evolving) micro-framework, designed with fat nim-server code and a thin javascript-layer; also database-functions are supported (Sqlite).
 - 📫 You can reach me at: googelaar att gmail.com
 
 <!---
